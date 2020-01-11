@@ -7,7 +7,7 @@ using BlogCoreEngine.Web.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Reddnet.Web.Extensions;
+using WebApp.Web.Extensions;
 
 namespace BlogCoreEngine.Controllers
 {

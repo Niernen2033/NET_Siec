@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Reddnet.Core\Reddnet.Core.csproj" />
-    <ProjectReference Include="..\Reddnet.DataAccess\Reddnet.DataAccess.csproj" />
+    <ProjectReference Include="..\WebApp.Core\WebApp.Core.csproj" />
+    <ProjectReference Include="..\WebApp.DataAccess\WebApp.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

@@ -104,7 +104,7 @@ namespace BlogCoreEngine.DataAccess.Data
                 new OptionDataModel
                 {
                     Id = Guid.NewGuid(),
-                    Title = "Reddnet",
+                    Title = "WebApp",
                     Logo = System.IO.File.ReadAllBytes(".//wwwroot//images//Logo.png")
                 }
             };
@@ -131,11 +131,11 @@ namespace BlogCoreEngine.DataAccess.Data
                 {
                     Id = adminId.ToString(),
                     AuthorId = authorId,
-                    UserName = "Admin",
+                    UserName = "Niernen",
                     NormalizedUserName = "admin",
                     Email = "default@default.com",
                     NormalizedEmail = "default@default.com",
-                    PasswordHash = hasher.HashPassword(null, "adminPassword"),
+                    PasswordHash = hasher.HashPassword(null, "abc123"),
                     SecurityStamp = string.Empty,
                     EmailConfirmed = true
                 }

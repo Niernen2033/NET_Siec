@@ -5,7 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace Reddnet.Web.Extensions
+namespace WebApp.Web.Extensions
 {
     public static class ControllerExtensions
     {

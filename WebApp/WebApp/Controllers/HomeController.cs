@@ -10,7 +10,7 @@ using BlogCoreEngine.Web.Extensions;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Reddnet.Web.Extensions;
+using WebApp.Web.Extensions;
 
 namespace BlogCoreEngine.Controllers
 {

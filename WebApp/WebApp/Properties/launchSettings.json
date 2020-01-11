@@ -20,7 +20,7 @@
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}"
     },
-    "Reddnet.Web": {
+    "WebApp.Web": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
